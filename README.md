@@ -40,8 +40,13 @@ Create a file named pk.txt in the root directory of the project.
 ```bash
 nano pk.txt
 ```
+3. **Install**
+   
+```bash
+npm install
+```
 
-3. **Running bot**
+4. **Running bot**
 
 Once you've completed the setup, you can run the bot with the following command:
 
