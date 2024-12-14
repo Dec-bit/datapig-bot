@@ -1,4 +1,4 @@
-# Datapig XYZ Bot
+# Vana Datapig Auto Bot
 
 This repository contains a bot designed to interact with the [Datapig API](https://app.datapig.xyz). The bot can generate random preferences, sign messages, generate analysis, and mint files to the blockchain. It runs every 24 hours to process wallets automatically.
 
